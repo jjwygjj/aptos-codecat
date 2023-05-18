@@ -7,4 +7,4 @@ rev = 'main'
 subdir = 'aptos-move/framework/aptos-framework'
 
 [addresses]
-codecat_addr='4b9509547e975763b65ad74df6f2ddf96a29e4d2c8b25850669b182b7ccf780d'
+codecat_addr='2d81030a4f7d00975e96f823bad1a72b235de421d1ea7ded523105fde8113421'
